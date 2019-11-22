@@ -1,10 +1,10 @@
 # Começando com Node
 
-### dentro desse projeto pra cada iten tem que ser criado uma nova pasta para não causar problema nas demais
+### dentro desse projeto pra cada item tem que ser criado uma nova pasta para não causar problema nas demais
  - cada pasta tem que ser criada numa branch
  - so vai ser passada para a master se o codigo estiver correto
 
-### para não ter problema nos com os codigo recomendo que use o powershell no windows
+### para não ter problema com os codigo recomendo que use o powershell no windows
 
 #### check list para poder iniciar um projeto em Node
  - primeiro tem que criar uma pasta 
